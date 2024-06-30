@@ -1,0 +1,6 @@
+C:\Users\paolo\Documents\GitHub\QM-LongerLastingWeapons\IncreaseWeaponsDurability\bin\Debug\IncreaseWeaponsDurability.dll
+C:\Users\paolo\Documents\GitHub\QM-LongerLastingWeapons\IncreaseWeaponsDurability\bin\Debug\IncreaseWeaponsDurability.pdb
+C:\Users\paolo\Documents\GitHub\QM-LongerLastingWeapons\IncreaseWeaponsDurability\obj\Debug\IncreaseWeaponsDurability.csproj.AssemblyReference.cache
+C:\Users\paolo\Documents\GitHub\QM-LongerLastingWeapons\IncreaseWeaponsDurability\obj\Debug\IncreaseWeaponsDurability.csproj.CoreCompileInputs.cache
+C:\Users\paolo\Documents\GitHub\QM-LongerLastingWeapons\IncreaseWeaponsDurability\obj\Debug\IncreaseWeaponsDurability.dll
+C:\Users\paolo\Documents\GitHub\QM-LongerLastingWeapons\IncreaseWeaponsDurability\obj\Debug\IncreaseWeaponsDurability.pdb
