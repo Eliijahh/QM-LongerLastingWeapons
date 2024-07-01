@@ -1,5 +1,5 @@
 # QM-LongerLastingWeapons
-A Quasimorph mod to increase the weapons durability by decreasing their degradation. Works on existing savegames and should be compatible to all mods that do not modify the "Break" method of the BreakableItemComponent class. At this stage of modding development, should be therefore compatible with most mods.
+A Quasimorph mod to increase the weapons durability by decreasing their degradation. Works on existing savegames and should be compatible to all mods that do not modify the "Break" method of the BreakableItemComponent class. At this stage of modding development, should be therefore compatible with most mods. 
 
 ## Installation Instructions
 1. Download the latest release
