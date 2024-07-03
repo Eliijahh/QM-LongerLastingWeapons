@@ -18,11 +18,13 @@ namespace DecreaseWeaponsDegradation.Patches
         [HarmonyPrefix]
         static bool decreaseWeaponsDegradation(BreakableItemComponent __instance, ref int val) 
         {
+            float degradationRateMultiplier = DecreaseWeaponsDegradation.WeaponsDegradationMultiplier.Value; // Use the configurable value
+
             if (__instance.Unbreakable)
             {
                 return false;
             }
-            float num = (float)val * 0.75f / (float)__instance.MaxDurability;
+            float num = (float)val * degradationRateMultiplier / (float)__instance.MaxDurability;
             Traverse.Create(__instance).Property("CurrentPercent").SetValue(Mathf.Clamp01(__instance.CurrentPercent - num));
 
             return false;
